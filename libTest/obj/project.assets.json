@@ -381,6 +381,19 @@
             "related": ".xml"
           }
         }
+      },
+      "libClasses/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "NUnit": "3.13.3"
+        },
+        "compile": {
+          "bin/placeholder/libClasses.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/libClasses.dll": {}
+        }
       }
     }
   },
@@ -971,6 +984,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "libClasses/1.0.0": {
+      "type": "project",
+      "path": "../libClasses/libClasses.csproj",
+      "msbuildProject": "../libClasses/libClasses.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -979,7 +997,8 @@
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.3.0",
       "NUnit3TestAdapter >= 4.2.1",
-      "coverlet.collector >= 3.1.2"
+      "coverlet.collector >= 3.1.2",
+      "libClasses >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1006,7 +1025,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/libClasses.csproj": {
+              "projectPath": "/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/libClasses.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

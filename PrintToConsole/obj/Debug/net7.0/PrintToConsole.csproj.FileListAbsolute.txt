@@ -1,0 +1,15 @@
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/bin/Debug/net7.0/PrintToConsole
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/bin/Debug/net7.0/PrintToConsole.deps.json
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/bin/Debug/net7.0/PrintToConsole.runtimeconfig.json
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/bin/Debug/net7.0/PrintToConsole.dll
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/bin/Debug/net7.0/PrintToConsole.pdb
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/obj/Debug/net7.0/PrintToConsole.csproj.AssemblyReference.cache
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/obj/Debug/net7.0/PrintToConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/obj/Debug/net7.0/PrintToConsole.AssemblyInfoInputs.cache
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/obj/Debug/net7.0/PrintToConsole.AssemblyInfo.cs
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/obj/Debug/net7.0/PrintToConsole.csproj.CoreCompileInputs.cache
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/obj/Debug/net7.0/PrintToConsole.dll
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/obj/Debug/net7.0/refint/PrintToConsole.dll
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/obj/Debug/net7.0/PrintToConsole.pdb
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/obj/Debug/net7.0/PrintToConsole.genruntimeconfig.cache
+/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/obj/Debug/net7.0/ref/PrintToConsole.dll

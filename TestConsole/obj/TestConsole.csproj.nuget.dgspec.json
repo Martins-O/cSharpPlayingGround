@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/martins-o/RiderProjects/cSharpPlayGround/libTest/libTest.csproj": {}
+    "/home/martins-o/RiderProjects/cSharpPlayGround/TestConsole/TestConsole.csproj": {}
   },
   "projects": {
-    "/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/libClasses.csproj": {
+    "/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/PrintToConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/libClasses.csproj",
-        "projectName": "libClasses",
-        "projectPath": "/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/libClasses.csproj",
+        "projectUniqueName": "/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/PrintToConsole.csproj",
+        "projectName": "PrintToConsole",
+        "projectPath": "/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/PrintToConsole.csproj",
         "packagesPath": "/home/martins-o/.nuget/packages/",
-        "outputPath": "/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/obj/",
+        "outputPath": "/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/martins-o/.nuget/NuGet/NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "NUnit": {
-              "target": "Package",
-              "version": "[3.13.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -63,14 +57,14 @@
         }
       }
     },
-    "/home/martins-o/RiderProjects/cSharpPlayGround/libTest/libTest.csproj": {
+    "/home/martins-o/RiderProjects/cSharpPlayGround/TestConsole/TestConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/martins-o/RiderProjects/cSharpPlayGround/libTest/libTest.csproj",
-        "projectName": "libTest",
-        "projectPath": "/home/martins-o/RiderProjects/cSharpPlayGround/libTest/libTest.csproj",
+        "projectUniqueName": "/home/martins-o/RiderProjects/cSharpPlayGround/TestConsole/TestConsole.csproj",
+        "projectName": "TestConsole",
+        "projectPath": "/home/martins-o/RiderProjects/cSharpPlayGround/TestConsole/TestConsole.csproj",
         "packagesPath": "/home/martins-o/.nuget/packages/",
-        "outputPath": "/home/martins-o/RiderProjects/cSharpPlayGround/libTest/obj/",
+        "outputPath": "/home/martins-o/RiderProjects/cSharpPlayGround/TestConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/martins-o/.nuget/NuGet/NuGet.Config"
@@ -85,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/libClasses.csproj": {
-                "projectPath": "/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/libClasses.csproj"
+              "/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/PrintToConsole.csproj": {
+                "projectPath": "/home/martins-o/RiderProjects/cSharpPlayGround/PrintToConsole/PrintToConsole.csproj"
               }
             }
           }
@@ -103,7 +97,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.7.0-preview.23280.1, )"
+              "version": "[17.3.2, )"
             },
             "NUnit": {
               "target": "Package",
