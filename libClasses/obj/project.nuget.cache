@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E2W4cUms81NxZtMtctodEtWh34qWZTkGlvm1D7K+IBlvv5309LAZSo57xhTlXfXbGdhc7a/e7jSHwgzeaRgZRQ==",
+  "success": true,
+  "projectFilePath": "/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/libClasses.csproj",
+  "expectedPackageFiles": [
+    "/home/martins-o/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/martins-o/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/home/martins-o/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

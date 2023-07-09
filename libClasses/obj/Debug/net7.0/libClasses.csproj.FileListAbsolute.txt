@@ -1,0 +1,12 @@
+/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/bin/Debug/net7.0/libClasses.deps.json
+/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/bin/Debug/net7.0/libClasses.dll
+/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/bin/Debug/net7.0/libClasses.pdb
+/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/obj/Debug/net7.0/libClasses.csproj.AssemblyReference.cache
+/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/obj/Debug/net7.0/libClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/obj/Debug/net7.0/libClasses.AssemblyInfoInputs.cache
+/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/obj/Debug/net7.0/libClasses.AssemblyInfo.cs
+/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/obj/Debug/net7.0/libClasses.csproj.CoreCompileInputs.cache
+/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/obj/Debug/net7.0/libClasses.dll
+/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/obj/Debug/net7.0/refint/libClasses.dll
+/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/obj/Debug/net7.0/libClasses.pdb
+/home/martins-o/RiderProjects/cSharpPlayGround/libClasses/obj/Debug/net7.0/ref/libClasses.dll
